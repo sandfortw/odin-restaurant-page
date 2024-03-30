@@ -20,4 +20,11 @@ img {
   align-items: center;
 }
 
+nav{
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 3vh;
+}
+
 
