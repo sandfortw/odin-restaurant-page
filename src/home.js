@@ -1,7 +1,7 @@
 import PizzaPic from "./pizza_image.jpeg"
 
 
-function pageLoadComponent() {
+function homeComponent() {
   const div = document.createElement('div')
 
   function headerComponent() {
@@ -19,4 +19,4 @@ function pageLoadComponent() {
   return div
 }
 
-export default pageLoadComponent()
+export default homeComponent()
