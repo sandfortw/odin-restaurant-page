@@ -12,6 +12,7 @@ module.exports = {
       title: 'Restaurant Page',
       filename: 'index.html',
       inject: 'body',
+      template: 'src/index.html'
     })
   ],
   module: {
